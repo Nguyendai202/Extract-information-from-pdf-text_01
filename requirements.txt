@@ -1,5 +1,4 @@
 spacy
-concurrent
 fitz
 frontend
 PyMuPDF
