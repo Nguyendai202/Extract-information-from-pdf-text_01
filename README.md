@@ -1,6 +1,8 @@
 # Extract-information-from- GCN an toàn thực phẩm cấp huyện TH
 The project uses Pymupdf and Ner for extract information pdf text
 
+![doawnload model](https://drive.google.com/drive/folders/1GGYe4PKJeFQjOoZvAN3GHGaRtLFbW_Ij)
+
 ![input](Screenshot_input.png)
 
 
